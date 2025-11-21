@@ -1,0 +1,65 @@
+C:\Users\yoonw\PycharmProjects\IceEnvProject\.venv\Scripts\python.exe C:\Users\yoonw\PycharmProjects\IceEnvProject\IceGymPuzzle1.py 
+
+Puzzle Number 1, Episode 80 SUCCESS!!!
+Action: moved left
+W W W W W
+W I F R W
+W I I I W
+W R A I W
+W W W W W
+Action: moved right
+W W W W W
+W I F R W
+W I I I W
+W R C A W
+W W W W W
+Action: moved up
+W W W W W
+W I F R W
+W I I A W
+W R C C W
+W W W W W
+Action: moved right
+W W W W W
+W I F R W
+W I I A W
+W R C C W
+W W W W W
+Action: moved up
+W W W W W
+W I F R W
+W I I A W
+W R C C W
+W W W W W
+Action: moved left
+W W W W W
+W I F R W
+W I A C W
+W R C C W
+W W W W W
+Action: moved up
+W W W W W
+W I F R W
+W I A C W
+W R C C W
+W W W W W
+Action: moved left
+W W W W W
+W I F R W
+W A C C W
+W R C C W
+W W W W W
+Action: moved up
+W W W W W
+W A F R W
+W C C C W
+W R C C W
+W W W W W
+Action: moved right
+W W W W W
+W C A R W
+W C C C W
+W R C C W
+W W W W W
+
+Process finished with exit code 0
